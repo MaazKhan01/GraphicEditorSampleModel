@@ -35,10 +35,7 @@ class Menu{
        //Object for Triangle class
        Triangle tri = new Triangle();
        tri.draw();
-      
-    
-       
-       
+        
        Main menu = new Main();
        menu.open();
        menu.select();
