@@ -36,7 +36,7 @@ class Menu{
        Triangle tri = new Triangle();
        tri.draw();
         
-       Main menu = new Main();
+       Menu menu = new Menu();
        menu.open();
        menu.select();
        menu.move();
